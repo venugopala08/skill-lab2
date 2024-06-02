@@ -1,0 +1,43 @@
+/* style.css */
+
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+/* Carousel styles */
+.carousel-inner img {
+    height: 400px;
+    object-fit: cover;
+}
+
+/* Card styles */
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-text {
+    margin-bottom: 0.5rem;
+}
+
+/* Footer styles */
+footer {
+    margin-top: 20px;
+    padding: 20px 0;
+    background-color: #f8f9fa;
+}
+
+footer a {
+    color: #000;
+    text-decoration: none;
+}
